@@ -107,6 +107,7 @@ On the Grafana side, you will need to create a dashboard or import the existing 
 
 ## References
 - https://github.com/bimmerconnected/bimmer_connected
+- https://blog.sami.pw/2023/06/from-engines-to-graphs-exploring-car.html
 - https://bimmer-connected.readthedocs.io/en/latest/development/reverse_engineering_mybmw.html (This is a particularly interesting read for reverse engineering enthusiasts.)
 
 These resources provide valuable information and insights for further understanding and exploring the project and its underlying technologies.
